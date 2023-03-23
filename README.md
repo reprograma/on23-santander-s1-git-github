@@ -196,7 +196,7 @@ Um pull request é quando você quer fazer merge do seu código em outro branch,
 
 ***
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
+* [Exercicio para sala](https://github.com/reprograma/-on23-b3-s1-git-github/blob/main/exercicios/para-sala/README.md)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
 ### Material da aula 
