@@ -17,7 +17,7 @@ O que veremos na aula de hoje?
 * [Tema1](#tema1) O que é versionamento de código? Introdução a git/github, conceitos e introdução.
 * [Tema2](#tema2) Comandos básicos no terminal usando o GitBash e configurações de autoria no git
 * [Tema3](#tema3) Controle de versão e projeto em sala chamado: Perfil da aluna
-* [Tema4](#tema4) Principais ferramentas usadas atualmente
+* [Tema4](#tema4) Meu primeiro commit!
 
 *Finalizaremos com um momento de dúvidas e introdução ao projeto para casa
 
