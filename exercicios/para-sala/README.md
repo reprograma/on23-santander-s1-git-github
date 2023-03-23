@@ -9,20 +9,19 @@ OBS1: Erros de digitação e formatação dos comandos no git bash podem acarret
 
 OBS2: Caso o arquivo ou pasta tenha algum erro de digitação ou não exista, também ocorrerão erros. Tentem sempre verificar se estão na pasta correta utilizando pwd e se está tentando passar o nome correto dos arquivos e pastas, liste os itens para pegar o nome correto utilizando ls.
 
-Você deve ter instalado o Git na sua máquina. Na Área de Trabalho (Desktop), clique com o botão direito e selecione Git Bash here
----
+- Você deve ter instalado o Git na sua máquina. Na Área de Trabalho (Desktop), clique com o botão direito e selecione Git Bash here
 
-##Comandos que vamos usar:
+## Comandos que vamos usar:
 
-pwd: print working directory, mostra o caminho onde você se encontra
-ls: list, lista o conteúdo da pasta atual
-mkdir: make a directory, cria uma nova pasta. Precisa colocar o nome da nova pasta. Ex: mkdir nomePastaNova
-cd: change directory, entrar em uma pasta. Precisa indicar o nome da pasta que quer entrar. Ex: cd nomePasta
-cd ..: voltar uma pasta acima
-echo: echo, eco que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: echo "oi" > index.html Nos utilizamos o Touch
-touch: touch, comando que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: touch index.html
-rm: remove, deleta um arquivo. Precisa indicar o nome do arquivo. Ex: rm index.html
-rm -r ou rm --recursive: deleta uma pasta. Precisa indicar o nome da pasta e deletar recursivamente. Ex: rm -r nomeDaPasta
+- pwd: print working directory, mostra o caminho onde você se encontra
+- ls: list, lista o conteúdo da pasta atual
+- mkdir: make a directory, cria uma nova pasta. Precisa colocar o nome da nova pasta. Ex: mkdir nomePastaNova
+- cd: change directory, entrar em uma pasta. Precisa indicar o nome da pasta que quer entrar. Ex: cd nomePasta
+- cd ..: voltar uma pasta acima
+- echo: echo, eco que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: echo "oi" > index.html Nos utilizamos o Touch
+- touch: touch, comando que cria um arquivo. Precisa indicar o conteúdo e o nome do arquivo. Ex: touch index.html
+- rm: remove, deleta um arquivo. Precisa indicar o nome do arquivo. Ex: rm index.html
+- rm -r ou rm --recursive: deleta uma pasta. Precisa indicar o nome da pasta e deletar recursivamente. Ex: rm -r nomeDaPasta
 
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
