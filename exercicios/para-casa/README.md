@@ -1,9 +1,10 @@
 # Exercício de Casa 🏠 
 
 ## INSTAGRAMINHO
-## Explicação do exercício: Bora fazer nosso primeiro fork? Vamos fazer nosso proprio login do instagraminho juntas. Aqui tem um passo a passo: 
+## Explicação do exercício: 
+Bora fazer nosso primeiro fork? Vamos fazer nosso proprio login do instagraminho juntas. Aqui tem um passo a passo: 
 
-- Entrar o repositório do projeto que clonamos: Instagraminho
+- Entrar o repositório do projeto que clonamos: Instagraminho https://github.com/thielenunes/instagraminho
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clicar em fork para criar uma copia desse repositório no seu GitHub***.
 - Na sua máquina: abrir o Git Bash clicando com o botão direito do mouse de dentro da pasta onde deseja clonar o repositório (*Git Bash here*), ou navegando pelo Git Bash até a pasta desejada (`cd nomeDaPasta`).
 - `git clone https://github.com/<seuuser>/instagraminho-reprograma`
